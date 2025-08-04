@@ -21,7 +21,7 @@ CREATE TABLE Enrollments (
 );
 
 INSERT INTO Students (student_id, student_name)
-VALUES (1, 'KARAN'), (2, 'KARAN');
+VALUES (1, 'KARAN'), (2, 'GAURI');
 
 INSERT INTO Courses (course_id, course_title)
 VALUES (101, 'Mathematics'), (102, 'Physics');
